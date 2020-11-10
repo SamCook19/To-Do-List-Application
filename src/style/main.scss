@@ -1,0 +1,18 @@
+@import "./todolist.scss";
+
+body {
+    padding: 50px;
+    background-color: seagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+.app {
+    margin-top: 2rem;
+    display: grid;
+    justify-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
